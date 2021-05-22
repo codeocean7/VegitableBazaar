@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768625729624",
+    "project_id": "vegitablebazaar-a79de",
+    "storage_bucket": "vegitablebazaar-a79de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768625729624:android:3f6eb65e119d823a076a2d",
+        "android_client_info": {
+          "package_name": "com.zealsoft.vegitablebazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768625729624-vp2boup0fipkt89i3adjl55lrjkumg7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTgurSszL8hc-8yGG-0j4mP4g3Ilgg9AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768625729624-vp2boup0fipkt89i3adjl55lrjkumg7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
